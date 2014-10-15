@@ -23,7 +23,7 @@ We started this lecture by looking at cave paintings and early written language.
 
 ![basquiat](http://i.imgur.com/igeOg8z.jpg)
 
-We learned about the [golden ratio](http://www.creativebloq.com/design/designers-guide-golden-ratio-12121546) and how its used in everything from [architecture](http://www.goldennumber.net/architecture/) to [nature](http://io9.com/5985588/15-uncanny-examples-of-the-golden-ratio-in-nature)  
+We learned about the [golden ratio](http://www.creativebloq.com/design/designers-guide-golden-ratio-12121546) and how its used in everything from [architecture](http://www.goldennumber.net/architecture/) to [nature](http://io9.com/5985588/15-uncanny-examples-of-the-golden-ratio-in-nature). We learned how it can be used in design with web design and layout which provides a natural and eye catching result.  
 
 ![grarchitecture](http://i.imgur.com/B93oM80.jpg)
 ![rose](http://i.imgur.com/A2XSVpc.jpg)
