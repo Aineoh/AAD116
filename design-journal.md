@@ -9,7 +9,9 @@ This week we had a broad look at the module and what will be covered in this sem
 
 We were told about [Refresh](http://refreshbelfast.com) which is in Belfast and a talk is being given by [Brendan Dawes](http://brendandawes.com)
 
-One of our projects for this semester is to design a type tile 3x3 grid of different typefaces from different periods in history that have appealed to me. This is part of our submission for this module. I'm excited for this project as I really enjoy typography and love finding new and old typefaces. 
+One of our projects for this semester is to design a type tile 3x3 grid of different typefaces from different periods in history that have appealed to me. This is part of our submission for this module. I'm excited for this project as I really enjoy typography and love finding new and old typefaces. When we have collected our images we should have something that looks like this:
+
+![type](http://i.imgur.com/Hu5RcFr.jpg)
 
 In our first week on the course we looked at the program [Atom](https://atom.io) and were told to familiarise ourselves with markdown and the syntax for it. To do this we were asked to render a text file in markdown using the Atom program. This was different as I have always used HTML to write code but using markdown was alot easier to do. 
 
@@ -21,7 +23,10 @@ We started this lecture by looking at cave paintings and early written language.
 
 ![basquiat](http://i.imgur.com/igeOg8z.jpg)
 
-We learned about the [golden ratio](http://www.creativebloq.com/design/designers-guide-golden-ratio-12121546)and how its used in everything from [architecture](http://www.goldennumber.net/architecture/) to [nature](http://io9.com/5985588/15-uncanny-examples-of-the-golden-ratio-in-nature)  
+We learned about the [golden ratio](http://www.creativebloq.com/design/designers-guide-golden-ratio-12121546) and how its used in everything from [architecture](http://www.goldennumber.net/architecture/) to [nature](http://io9.com/5985588/15-uncanny-examples-of-the-golden-ratio-in-nature)  
+
+![grarchitecture](http://i.imgur.com/B93oM80.jpg)
+![rose](http://i.imgur.com/A2XSVpc.jpg)
 
 Week 3 
 ------
