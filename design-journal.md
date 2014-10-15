@@ -19,6 +19,8 @@ Week 2
 ------
 We started this lecture by looking at cave paintings and early written language. We looked at the earliest markings at Cantabria and how the oldest known marking is a simple red dot. This relates to the work we are doing in our modules of interaction design fundamentals which we are learning about points. We learned how cave drawings were inspiration for artists such as Picasso. They also remind me of the work of [Basquiat](http://basquiat.com). 
 
+![basquiat](http://i.imgur.com/igeOg8z.jpg)
+
 We learned about the [golden ratio](http://www.creativebloq.com/design/designers-guide-golden-ratio-12121546)and how its used in everything from [architecture](http://www.goldennumber.net/architecture/) to [nature](http://io9.com/5985588/15-uncanny-examples-of-the-golden-ratio-in-nature)  
 
 Week 3 
