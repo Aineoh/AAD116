@@ -79,6 +79,10 @@ treasures lost on that fateful day included:**
 beneath the sea in a pioneering test he described in **'93The Deepest Days'94**, National Geographic, April 1965. Here he tells the dramatic story of finding the Girona.
 
 
+I also looked at [contrast through scale](http://typecast.com/blog/contrast-through-scale) which is an article about the importance of contrast in typography which can be created by [scale](http://type-scale.com) and weight.
+
+![weight](http://fontfeed.fontshopusa.com/wp-content/uploads/2009/02/taz-iii-family.png)
+
 Week 3 
 ------
 
