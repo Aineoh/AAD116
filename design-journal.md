@@ -13,13 +13,13 @@ One of our projects for this semester is to design a type tile 3x3 grid of diffe
 
 In our first week on the course we looked at the program [Atom](https://atom.io) and were told to familiarise ourselves with markdown and the syntax for it. To do this we were asked to render a text file in markdown using the Atom program. This was different as I have always used HTML to write code but using markdown was alot easier to do. 
 
-[markdown](http://i.imgur.com/qRqaWhT.jpg)
+![markdown](http://i.imgur.com/qRqaWhT.jpg)
 
 Week 2
 ------
 We started this lecture by looking at cave paintings and early written language. We looked at the earliest markings at Cantabria and how the oldest known marking is a simple red dot. This relates to the work we are doing in our modules of interaction design fundamentals which we are learning about points. We learned how cave drawings were inspiration for artists such as Picasso. They also remind me of the work of [Basquiat](http://basquiat.com). 
 
-We learned about the [golden ratio](http://www.creativebloq.com/design/designers-guide-golden-ratio-12121546)
+We learned about the [golden ratio](http://www.creativebloq.com/design/designers-guide-golden-ratio-12121546)and how its used in everything from [architecture](http://www.goldennumber.net/architecture/) to [nature](http://io9.com/5985588/15-uncanny-examples-of-the-golden-ratio-in-nature)  
 
 Week 3 
 ------
