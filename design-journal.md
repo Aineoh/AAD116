@@ -79,9 +79,12 @@ treasures lost on that fateful day included:**
 beneath the sea in a pioneering test he described in **'93The Deepest Days'94**, National Geographic, April 1965. Here he tells the dramatic story of finding the Girona.
 
 
-I also looked at [contrast through scale](http://typecast.com/blog/contrast-through-scale) which is an article about the importance of contrast in typography which can be created by [scale](http://type-scale.com) and weight.
+I also looked at [contrast through scale](http://typecast.com/blog/contrast-through-scale) which is an article about the importance of contrast in typography which can be created by [scale](http://type-scale.com) ,weight, case and colour. These are all better when used collectively but have to be used in the right quantity much like a cocktail needs the right balance of alcohol. This journal also highlights the need to research your target audience and see what will work best for them.
 
 ![weight](http://fontfeed.fontshopusa.com/wp-content/uploads/2009/02/taz-iii-family.png)
+
+Having books in the 14th century was seen as a sign of wealth and knowledge because of how expensive they were and how long it look to write one out. This was all about to change with the invention of movable type.
+
 
 Week 3 
 ------
