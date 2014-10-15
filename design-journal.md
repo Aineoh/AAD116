@@ -23,10 +23,61 @@ We started this lecture by looking at cave paintings and early written language.
 
 ![basquiat](http://i.imgur.com/igeOg8z.jpg)
 
-We learned about the [golden ratio](http://www.creativebloq.com/design/designers-guide-golden-ratio-12121546) and how its used in everything from [architecture](http://www.goldennumber.net/architecture/) to [nature](http://io9.com/5985588/15-uncanny-examples-of-the-golden-ratio-in-nature). We learned how it can be used in design with web design and layout which provides a natural and eye catching result.  
+We learned about the [golden ratio](http://www.creativebloq.com/design/designers-guide-golden-ratio-12121546) and how its used in everything from [architecture](http://www.goldennumber.net/architecture/) to [nature](http://io9.com/5985588/15-uncanny-examples-of-the-golden-ratio-in-nature). We learned how it can be used in design with web design and layout which provides a natural and eye catching result. I found a website that helps you discover the perfect type size for your website using the measurments and calculations of the golden ratio. This will come in useful for designing websites in the future and also for project layouts.  
 
 ![grarchitecture](http://i.imgur.com/B93oM80.jpg)
 ![rose](http://i.imgur.com/A2XSVpc.jpg)
+
+This week we also finished up a homework assignment on markdown. We were given a piece of text and told to use a program called [Atom](https://atom.io) to render it. This was my finished assignment: 
+
+
+###Ireland's rugged coastline###
+
+Priceless Relics of the Spanish Armada
+=======================================
+
+###by Robert St'enuit###
+
+####*Illustrations by National Geographic Photographer Bates Lilttlehales*####
+
+
+A wild north wind lashed the galleass as she sailed eastward across the top of 
+Ireland. A monstrous wave had smashed her jury rudder; now she yawed and rolled 
+in the troughs, making relentless leeway toward night-hidden cliffs to 
+starboard.
+
+
+>'93In 1588 a ship of the Spanish Armada, the Girona was wrecked with the loss
+  of almost all her company at a little cove near the Giants Causeway still 
+  called Port na Spaniagh, '91the port of the Spaniards'
+
+Ahead, not thirty miles away, lay Scotland's west coast and sanctuary for the
+  vessels company, survivors of Spain's once arrogant Armada. A few more miles 
+  and the Girona would be clear of Ireland; a few more hours would make good an 
+  escape begun nearly three months before. Oarsmen battled the wind with 
+  flailing sweeps, struggling vainly to steer the ship away from the shore.
+  
+The wind won. White water boiled off the starboard bow. A scream from the 
+lookout brought sailors racing to drop anchor. Too late. A fang of rock rising
+  from the sea ripped the Girona's flank; she gutted herself upon it. Her back
+  broke, her side opened, her entrails burst from her. Cannons, cannon balls, 
+  small arms, stores, coffers and 1,300 sick men, too exhausted to struggle, 
+  sank into the convulsive surf. 
+  
+**Four centuries later the shipwreck was discovered under 30 feet of icy water, 
+treasures lost on that fateful day included:**
+
+* A ornamental winged salamander 
+* Gold cross of the Knight of Malta 
+* Gilded brass dolphin 
+* Lapis lazuli cameos 
+* Silver sculpture of a grotesque face. 
+* Gold ducats
+
+
+** The Author:** Veteran Belgin dicer Robert St'enuit spent two days at 432 feet 
+beneath the sea in a pioneering test he described in **'93The Deepest Days'94**, National Geographic, April 1965. Here he tells the dramatic story of finding the Girona.
+
 
 Week 3 
 ------
