@@ -93,6 +93,8 @@ Week 3
 
 This week we looked at Gutenberg and the revolution of printing. It was created by the Chinese in 1040 AD and made it was across Europe where Johannes Gutenberg invented an improved version which is still used today. 
 
+![gutenburg](http://upload.wikimedia.org/wikipedia/commons/b/b0/Gutenberg_Bible.jpg)
+
 We looked at how a typeface can brand a company and set a different tone of voice. It is very important for designers to know about how different typefaces can set a certain tone for a company. This works well with target audience research as it helps shape a company. 
 
 We were also put into groups for our presentations. 
