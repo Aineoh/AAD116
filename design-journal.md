@@ -101,6 +101,8 @@ We looked at how a typeface can brand a company and set a different tone of voic
 
 We were also put into groups for our presentations and we worked out times were we can all get together and work.
 
+We put a background to our [personal GitHub page](https://aineoh.github.io). My background is my arrow line drawings. I chose this background as its simple enough to not take away from my bio and also placed in the corner so it isn't clashing with my bio.
+
 Week 4 
 ------
 
