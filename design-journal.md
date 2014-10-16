@@ -103,7 +103,6 @@ We were also put into groups for our presentations and we worked out times were 
 
 We put a background to our [personal GitHub page](https://aineoh.github.io). My background is my arrow line drawings. I chose this background as its simple enough to not take away from my bio and also placed in the corner so it isn't clashing with my bio.
 
-![personal GitHub page](https://aineoh.github.io)
 
 Week 4 
 ------
