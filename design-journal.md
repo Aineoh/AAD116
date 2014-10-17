@@ -111,6 +111,10 @@ We put a background to our [personal GitHub page](https://aineoh.github.io). My 
 Week 4 
 ------
 
+This week we looked at different art movements of the last two centuries. I love learning about art history and really enjoyed this lecture. A few of my favourite artists were mentioned also which was a bonus. 
+
+We started off at the industrial revolution and its influence on artists, architecture and design.  
+
 Week 5 
 ------
 
