@@ -87,6 +87,10 @@ Having books in the 14th century was seen as a sign of wealth and knowledge beca
 
 In our class today we changed our [GitHub personal page](http://aineoh.github.io) bio and avatar. It was interesting learning how to use images already online on my GitHub page. I also had alot of fun writing about myself as I never knew how many things I could use in a bio. To help myself I researched different bio's by designers and illustrators that I really like such as [Gemma Correll](http://www.gemmacorrell.com/about-me-faqs/), [Jessica Hische](http://jessicahische.is/anoversharer), [Valfre](http://valfre.com/pages/about-us) and [Kate Moross](http://www.katemoross.com/ABOUT). 
 
+This is my personal page:
+
+![mypage](http://i.imgur.com/XBnBKNF.png)
+
 
 Week 3 
 ------
