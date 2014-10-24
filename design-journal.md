@@ -75,7 +75,7 @@ treasures lost on that fateful day included:**
 * Gold ducats
 
 
-** The Author:** Veteran Belgin dicer Robert St'enuit spent two days at 432 feet 
+**The Author:** Veteran Belgin dicer Robert St'enuit spent two days at 432 feet 
 beneath the sea in a pioneering test he described in **'93The Deepest Days'94**, National Geographic, April 1965. Here he tells the dramatic story of finding the Girona.
 
 
