@@ -115,7 +115,7 @@ This week we looked at different art movements of the last two centuries. I love
 
 We started off at the industrial revolution and its influence on artists, architecture and design. <b>Japonism</b> was a big influence of this time. It was a taking the flat Japonese style in disciplines like painting and sculpture. The first artist to incorporate this style were Van Gogh and [Toulouse-Lautrec](http://www.toulouse-lautrec-foundation.org)
 
-![lautrecposter](http://www.toulouse-lautrec-foundation.org/La-Troupe-De-Mlle-Eglantine-large.html)
+![lautrecposter](http://www.toulouse-lautrec-foundation.org/71335/La-Troupe-De-Mlle-Eglantine-large.jpg)
 
 Week 5 
 ------
