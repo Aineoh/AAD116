@@ -119,13 +119,17 @@ We started off at the industrial revolution and its influence on artists, archit
 
 Week 5 
 ------
+Dada and Propaganda in Design
 
 Week 6 
 ------
+Revolution and the Bauhaus
+
 Presentation 
 
 Week 7 
 ------
+WWII, HfG Ulm and Modernism in the US
 
 Week 8 
 ------
