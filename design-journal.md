@@ -117,9 +117,27 @@ We started off at the industrial revolution and its influence on artists, archit
 
 ![lautrecposter](http://www.toulouse-lautrec-foundation.org/71335/La-Troupe-De-Mlle-Eglantine-large.jpg)
 
+We also learned about the arts and crafts movement which was a anti-industrial revolution movement. This movement focused on nature and kept things simple. There wasn't alot of decoration to the art work. 
+
+Art nouveau was an art movement that used the same principles as arts and crafts but had more flamboyant decoration. one of my favourite artists of this time is [Aubrey Beardsley](http://www.tate.org.uk/art/artists/aubrey-beardsley-716). His work is inspired by simple Japanese art but added very light details details. His work was mostly black and white and had alot of contrast. 
+
+Two groups of artists we looked at were [The Glasgow School of Art](http://www.gsa.ac.uk) and [Vienna Succession](http://www.theviennasecession.com). In the Glasgow school of art we looked at [Rennie Macintosh](http://www.crmsociety.com) and his role in art, architecture and design. 
+In the Vienna Succession my favourite artist is [Gustav Klimt](http://www.klimt.com). I love his elaboratly decorated painting and the detail in them. 
+
 Week 5 
 ------
-Dada and Propaganda in Design
+
+After the art nouveau movement in Europe there was a different approach to art. The art world was embracing the new industry of machines and speed and this reflected in artists of this time. 
+
+A competition was held in 1906, when art nouveau movement was at the height of its time, Priester Match Company held a competition for a promotional poster. They thought they were getting entries with richly decorative art when they recieved an entry by Lucian Bernhard which had a minimalist approach. This started a new movement of minimal design called Plakatstil. This was used in political posters and propaganda in ww1.
+
+
+Futurism looked at speed, machinery and violence. It used painting, sculpture, architecture, peotry and photography. The work reflected the struggle of the times (war) and how people seen their own stuggles. Typography was used in a different way in this movement to convey stress and struggle.
+
+Dada was an anti art movement in many ways as it questioned alot of art that came before it. 
+
+Art Deco was a style mainly associated with 1920's and spread internationally. It combined the structure of the industrial age with the tradition art and crafts themes. It was very bold, geometric and rich. Art deco embraced the new technology and was used in old hollywood movies, architecture, product design and fashion. Artist A.M. Cassandre was the most prominent figure of this time..
+
 
 Week 6 
 ------
