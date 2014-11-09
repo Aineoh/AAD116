@@ -131,17 +131,23 @@ In the Vienna Succession my favourite artist is [Gustav Klimt](http://www.klimt.
 Week 5 
 ------
 
-After the art nouveau movement in Europe there was a different approach to art. The art world was embracing the new industry of machines and speed and this reflected in artists of this time. 
+After the art nouveau movement in Europe there was a different approach to art. The art world was embracing the new industry of machines and speed and this reflected in artists of this time which as called [futurism](http://en.wikipedia.org/wiki/Futurism).
 
 A competition was held in 1906, when art nouveau movement was at the height of its time, Priester Match Company held a competition for a promotional poster. They thought they were getting entries with richly decorative art when they recieved an entry by Lucian Bernhard which had a minimalist approach. This started a new movement of minimal design called Plakatstil. This was used in political posters and propaganda in ww1.
 
+![Poster](http://hogd.pbworks.com/f/1255251902/73209-004-77C18F2C.jpg)
 
 Futurism looked at speed, machinery and violence. It used painting, sculpture, architecture, peotry and photography. The work reflected the struggle of the times (war) and how people seen their own stuggles. Typography was used in a different way in this movement to convey stress and struggle.
 
-Dada was an anti art movement in many ways as it questioned alot of art that came before it. 
+![poster](http://paperarch.files.wordpress.com/2012/08/umberto_boccioni_-_charge_of_the_lancers.jpg)
 
-Art Deco was a style mainly associated with 1920's and spread internationally. It combined the structure of the industrial age with the tradition art and crafts themes. It was very bold, geometric and rich. Art deco embraced the new technology and was used in old hollywood movies, architecture, product design and fashion. Artist A.M. Cassandre was the most prominent figure of this time..
+Dada was an anti art movement in many ways as it questioned alot of art that came before it. It was a revolt against the culture and values which - it was believed - had caused and supported the carnage of The First World War. The main leaders were typically very young and in their early twenties.
 
+![dada](http://upload.wikimedia.org/wikipedia/commons/b/b1/Theo_van_Doesburg_kleine_Dada_soirée.jpg)
+
+[Art Deco](http://en.wikipedia.org/wiki/Art_Deco) was a style mainly associated with 1920's and spread internationally. It combined the structure of the industrial age with the tradition art and crafts themes. It was very bold, geometric and rich. Art deco embraced the new technology and was used in old hollywood movies, architecture, product design and fashion. Artist A.M. Cassandre was the most prominent figure of this time.
+
+![building art deco](http://upload.wikimedia.org/wikipedia/commons/0/0b/Chrysler_Building_spire,_Manhattan,_by_Carol_Highsmith_(LOC_highsm.04444).png)
 
 Week 6 
 ------
