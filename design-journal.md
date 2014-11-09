@@ -119,10 +119,14 @@ We started off at the industrial revolution and its influence on artists, archit
 
 We also learned about the arts and crafts movement which was a anti-industrial revolution movement. This movement focused on nature and kept things simple. There wasn't alot of decoration to the art work. 
 
-Art nouveau was an art movement that used the same principles as arts and crafts but had more flamboyant decoration. one of my favourite artists of this time is [Aubrey Beardsley](http://www.tate.org.uk/art/artists/aubrey-beardsley-716). His work is inspired by simple Japanese art but added very light details details. His work was mostly black and white and had alot of contrast. 
+Art nouveau was an art movement that used the same principles as arts and crafts but had more flamboyant decoration. One of my favourite artists of this time is [Aubrey Beardsley](http://www.tate.org.uk/art/artists/aubrey-beardsley-716). His work is inspired by simple Japanese art but added very light details details. His work was mostly black and white and had alot of contrast. 
+
+![Aubrey Beardsley](http://upload.wikimedia.org/wikipedia/commons/c/c5/Beardsley-peacockskirt.PNG)
 
 Two groups of artists we looked at were [The Glasgow School of Art](http://www.gsa.ac.uk) and [Vienna Succession](http://www.theviennasecession.com). In the Glasgow school of art we looked at [Rennie Macintosh](http://www.crmsociety.com) and his role in art, architecture and design. 
 In the Vienna Succession my favourite artist is [Gustav Klimt](http://www.klimt.com). I love his elaboratly decorated painting and the detail in them. 
+
+![Gustav Klimt](http://upload.wikimedia.org/wikipedia/commons/f/f3/Gustav_Klimt_016.jpg)
 
 Week 5 
 ------
