@@ -151,9 +151,11 @@ Dada was an anti art movement in many ways as it questioned alot of art that cam
 
 Week 6 
 ------
-Revolution and the Bauhaus
+The Russian Revolution and The Bauhaus generate visual vocabularies which still influence design today.
 
-Presentation 
+De Stijl was an art movement developed from the breakdown of different things to show the basic shapes. For example a cow would be broken down to rectangles and made really simple.The founders of this movement were Theo van Doesburg and Piet Mondrian and they developed their minimal, geometric abstract style could not be identified by any single country and has been used in fashion, interior design and textiles.
+
+This week we did our first group preentations. Ours was on the pioneers of digital design and we had been getting together as a group for the past two weeks so we were prepared and had practiced our presentation. 
 
 Week 7 
 ------
