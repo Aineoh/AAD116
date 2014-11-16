@@ -163,6 +163,10 @@ Theo van Doesburg looked at how things can be reduced to basic shapes. He looked
 
 This week we did our first group presentations. Ours was on the pioneers of digital design and we had been getting together as a group for the past two weeks so we were prepared and had practiced our presentation. 
 
+Constructivism
+--------------
+Constructivist movement began in Russia in 1919. This movement changed how we look at art, instead of asthetics it was used for social purposes. It had an influence on modern art, particularly [Bauhaus](http://en.wikipedia.org/wiki/Bauhaus)
+
 Week 7 
 ------
 WWII, HfG Ulm and Modernism in the US
