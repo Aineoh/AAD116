@@ -157,7 +157,11 @@ De Stijl was an art movement developed from the breakdown of different things to
 
 ![homer](http://i.imgur.com/Ok88hHk.png) 
 
-This week we did our first group preentations. Ours was on the pioneers of digital design and we had been getting together as a group for the past two weeks so we were prepared and had practiced our presentation. 
+Theo van Doesburg looked at how things can be reduced to basic shapes. He looked at the shape of a cow and how it can be reduced to basic shapes and then form a new way of making art. 
+
+![theo](http://lonelyautodidact.files.wordpress.com/2011/05/4-stages-of-cow.png)
+
+This week we did our first group presentations. Ours was on the pioneers of digital design and we had been getting together as a group for the past two weeks so we were prepared and had practiced our presentation. 
 
 Week 7 
 ------
