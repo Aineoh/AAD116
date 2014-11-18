@@ -221,7 +221,7 @@ Some of the difining characteristics of modernism are:
 
 As artist fleed Europe for the safety of distant shores, many moved to the US where they could practise art freely. The move saw a cultural shift of creativity and intellect from Europe to the States.
 
-![modernist}(http://www.georgetowner.com/media/images/derivatives/article_2948-003.jpg)
+![modernist](http://www.georgetowner.com/media/images/derivatives/article_2948-003.jpg)
 
 [The Ulm School of Design](http://en.wikipedia.org/wiki/Ulm_School_of_Design) sought to redress the balance in Europe. It is the the second most influencial design school after Bauhaus. it was founded by [Inge Aicher-Scholl](http://en.wikipedia.org/wiki/Inge_Scholl), [Otl Aicher](http://en.wikipedia.org/wiki/Otl_Aicher) and [Max Bill](http://en.wikipedia.org/wiki/Max_Bill).
 
