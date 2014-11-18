@@ -175,9 +175,23 @@ Constructivist movement began in Russia in 1919. This movement changed how we lo
 
 ![Alexander Rodchenko](http://berkedoganogluva312.files.wordpress.com/2011/12/rodchenko-1.jpg)
 
+Bauhaus
+-------
+The Bauhaus school began in 1919, founded by Walter Gropius in Weimar. It was founded with the idea that all art form could come together and be learned under one roof. It was one of the most influential schools of art of its time. The Bauhaus had a profound influence upon subsequent developments in art, architecture, graphic design, interior design, industrial design, and typography.
+
+>Bauhaus Manifesto
+
+>“The ultimate goal of all art is the building! The ornamentation of the building was once the main purpose of the >visual arts, and they were considered indispensable parts of the great building. Today, they exist in complacent >isolation, from which they can only be salvaged by the purposeful and cooperative endeavours of all artisans. >Architects, painters and sculptors must learn a new way of seeing and understanding the composite character of >the building, both as a totality and in terms of its parts. Their work will then re-imbue itself with the spirit >of architecture, which it lost in salon art.
+
+>The art schools of old were incapable of producing this unity – and how could they, for art may not be taught. >They must return to the workshop. This world of mere drawing and painting of draughtsmen and applied artists must >at long last become a world that builds. When a young person who senses within himself a love for creative >endeavour begins his career, as in the past, by learning a trade, the unproductive “artist” will no longer be >condemned to the imperfect practice of art because his skill is now preserved in craftsmanship, where he may >achieve excellence.
+
+>Architects, sculptors, painters – we all must return to craftsmanship! For there is no such thing as “art by >profession”. There is no essential difference between the artist and the artisan. The artist is an exalted >artisan. Merciful heaven, in rare moments of illumination beyond man’s will, may allow art to blossom from the >work of his hand, but the foundations of proficiency are indispensable to every artist. This is the original >source of creative design.
+
+>So let us therefore create a new guild of craftsmen, free of the divisive class pretensions that endeavoured to >raise a prideful barrier between craftsmen and artists! Let us strive for, conceive and create the new building >of the future that will unite every discipline, architecture and sculpture and painting, and which will one day >rise heavenwards from the million hands of craftsmen as a clear symbol of a new belief to come."
+
 Week 7 
 ------
-WWII, HfG Ulm and Modernism in the US
+
 
 Week 8 
 ------
