@@ -171,7 +171,9 @@ Constructivist movement began in Russia in 1919. This movement changed how we lo
 
 ![El Lissitzky](http://uploads2.wikiart.org/images/el-lissitzky/four-arithmetic-actions-1928.jpg)
 
-[Alexander Rodchenko](http://en.wikipedia.org/wiki/Alexander_Rodchenko) was another Russian artist and designer prolific in the construstivist movement. He liked to use different angles inhis photography to capture
+[Alexander Rodchenko](http://en.wikipedia.org/wiki/Alexander_Rodchenko) was another Russian artist and designer prolific in the construstivist movement. He liked to use different angles in his photography to capture unusual poses and positions. 
+
+![Alexander Rodchenko](http://berkedoganogluva312.files.wordpress.com/2011/12/rodchenko-1.jpg)
 
 Week 7 
 ------
