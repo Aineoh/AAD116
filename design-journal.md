@@ -191,6 +191,10 @@ The Bauhaus school began in 1919, founded by Walter Gropius in Weimar. It was fo
 
 ![bauhaus](https://bauhausgraphics.files.wordpress.com/2010/10/a4-bauhaus-invite.jpg)
 
+[Laszlo Moholy-Nagy](http://en.wikipedia.org/wiki/László_Moholy-Nagy)was the new head of the preliminary school Moholy-Nagy explored painting, photography, film, sculpture and graphic design. His love for photography and typography developed an interest in the Bauhaus for visual communications. Like Rodchenko he explored photography by experimenting with different viewpoints with extreme close-ups and angled viewpoints. He thought photography would replace art.
+
+![moholy-nagy](http://www.iconofgraphics.com/moholy/large/moholynagy_a19.jpg)
+
 Week 7 
 ------
 
