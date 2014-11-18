@@ -202,22 +202,22 @@ During World War II the armies forced most influential designers to flee to the 
 
 Some of the difining characteristics of modernism are:
 
-*Reject traditional forms and decorative elements
-*Seek a solution that is simple and direct
-Use systematic methods rather than intuitive ones
-Think about relationships in form and content
-Use geometric shapes: circle, triangle, square
-Use primary colours
-Use sans serif typefaces
-Show contrast in typographical material
-Use photographs and photomontage rather than drawings or illustrations
-Use silhouetted photographs with white backgrounds
-Use maps and diagrams
-Use graphic symbols and icons
-Use of asymmetric page layout
-Use of grid or clearly delineated page-organising method
-Apply a planned visual hierarchy
-A brief look at degenerate art showed how Adolf Hitler persecuted modern artists, designers, musicians, basicially anyone who didn't conform to his ideals.
+* Reject traditional forms and decorative elements
+* Seek a solution that is simple and direct
+* Use systematic methods rather than intuitive ones
+* Think about relationships in form and content
+* Use geometric shapes: circle, triangle, square
+* Use primary colours
+* 8 Use sans serif typefaces
+* Show contrast in typographical material
+* Use photographs and photomontage rather than drawings or illustrations
+* Use silhouetted photographs with white backgrounds
+* Use maps and diagrams
+* Use graphic symbols and icons
+* Use of asymmetric page layout
+* Use of grid or clearly delineated page-organising method
+* Apply a planned visual hierarchy
+* A brief look at degenerate art showed how Adolf Hitler persecuted modern artists, designers, musicians, basicially anyone who didn't conform to his ideals.
 
 Nazi persecution forced numerous artists, architects and designers to flee Europe for the safety of distant shores. Many mover to the US where the creative community welcomed them with open arms. The move saw a cultural shift of creativity and intellect from Europe to the States. However, all was not lost at home.
 
