@@ -198,7 +198,40 @@ The Bauhaus school began in 1919, founded by Walter Gropius in Weimar. It was fo
 Week 7 
 ------
 
+During World War II the armies forced most influential designers to flee to the safety of the US. Modernism was formed through western society and it as a socially progressive trend of thought that affirms the power of human beings to create, improve and reshape their environment with the aid of practical experimentation, scientific knowledge, or technology. From this perspective, Modernism encouraged the re-examination of every aspect of existence, from commerce to philosophy, with the goal of finding that which was 'holding back' progress, and replacing it with new ways of reaching the same end. 
 
+Some of the difining characteristics of modernism are:
+
+*Reject traditional forms and decorative elements
+*Seek a solution that is simple and direct
+Use systematic methods rather than intuitive ones
+Think about relationships in form and content
+Use geometric shapes: circle, triangle, square
+Use primary colours
+Use sans serif typefaces
+Show contrast in typographical material
+Use photographs and photomontage rather than drawings or illustrations
+Use silhouetted photographs with white backgrounds
+Use maps and diagrams
+Use graphic symbols and icons
+Use of asymmetric page layout
+Use of grid or clearly delineated page-organising method
+Apply a planned visual hierarchy
+A brief look at degenerate art showed how Adolf Hitler persecuted modern artists, designers, musicians, basicially anyone who didn't conform to his ideals.
+
+Nazi persecution forced numerous artists, architects and designers to flee Europe for the safety of distant shores. Many mover to the US where the creative community welcomed them with open arms. The move saw a cultural shift of creativity and intellect from Europe to the States. However, all was not lost at home.
+
+The Ulm School of Design sought to redress the balance in Europe. The origins of Ulm School of Design goes back to the Scholl Foundation. The Scholl Foundation was created in 1950 by Inge Scholl in memory of their siblings Sophie and Hans Scholl, mmembers of the resistance group "White Rose" who were executed by the Nazis in 1943.
+
+Inge, along with Otl Aicher and Max Bill founded the Ulm School of Design in 1953 where it quickly gained a reputation ans one of the finest design schools in the world, sceond only to the Bauhaus.
+
+Also referred to as the International Typographic Style or the International Style, The Swiss Style originated in Switzerland in the 1950s and remained a major movement in design for over 20 years. Still influencing designers today the movement was refined at two design schools design. In Basel it was led by Armin Hofmann and Emil Ruder while Josef Müller-Brockman headed the movement in Zurich. Lessons from Swiss Style from Smashing Magazine is worth checking out for a broad overview of the movement.
+
+The shift of creative talent to the US had a profound effect on the resident design community. Previously, Modernism had been rejected when the 1913 Armoury Show introduced the movement to America. Designers eager to learn from Modernism had to satisfy their thirst through exhibition catalogues and brochures from their European counterparts.
+
+The movement didn’t making a lasting impact until the 1930s when artists, architects and designers started to flee Europe for the safety of the US.
+
+Key designers of the American Modernist movement included Alexey Brodovitch, Herbert Bayer, Herbert Matter, Paul Rand, Saul Bass and Milton Glaser to name a handful.
 Week 8 
 ------
 This week we attended Break conference
