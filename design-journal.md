@@ -189,6 +189,8 @@ The Bauhaus school began in 1919, founded by Walter Gropius in Weimar. It was fo
 
 >So let us therefore create a new guild of craftsmen, free of the divisive class pretensions that endeavoured to >raise a prideful barrier between craftsmen and artists! Let us strive for, conceive and create the new building >of the future that will unite every discipline, architecture and sculpture and painting, and which will one day >rise heavenwards from the million hands of craftsmen as a clear symbol of a new belief to come."
 
+![bauhaus](https://bauhausgraphics.files.wordpress.com/2010/10/a4-bauhaus-invite.jpg)
+
 Week 7 
 ------
 
