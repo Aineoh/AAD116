@@ -165,7 +165,13 @@ This week we did our first group presentations. Ours was on the pioneers of digi
 
 Constructivism
 --------------
-Constructivist movement began in Russia in 1919. This movement changed how we look at art, instead of asthetics it was used for social purposes. It had an influence on modern art, particularly [Bauhaus](http://en.wikipedia.org/wiki/Bauhaus)
+Constructivist movement began in Russia in 1919. This movement changed how we look at art, instead of asthetics it was used for social purposes. It had an influence on modern art, particularl [Bauhaus](http://en.wikipedia.org/wiki/Bauhaus) 
+
+[El Lissitzky](http://en.wikipedia.org/wiki/El_Lissitzky) was a Russian artist, designer and typographer whose work has freatly influenced Bauhaus and was an important figure in Russian design. His work was used for Russian propaganda. His use of photography and type was a revolution in design
+
+![El Lissitzky](http://uploads2.wikiart.org/images/el-lissitzky/four-arithmetic-actions-1928.jpg)
+
+[Alexander Rodchenko](http://en.wikipedia.org/wiki/Alexander_Rodchenko) was another Russian artist and designer prolific in the construstivist movement. He liked to use different angles inhis photography to capture
 
 Week 7 
 ------
@@ -173,6 +179,7 @@ WWII, HfG Ulm and Modernism in the US
 
 Week 8 
 ------
+This week we attended Break conference
 
 Week 9 
 ------
