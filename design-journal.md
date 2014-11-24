@@ -240,7 +240,27 @@ This week we attended Break conference
 
 Week 9 
 ------
+Today we learned about the postmodern movement. This movement started with Wolfgang Weingart who changed the restrictive rules of typesetting and experimented with type and posters. His work was very heavily influenced by constructivism and looked at how weight and type and pushed the limits of readability. 
 
+Dan Friedman studied under Weingart at Ulm and had an abstract and simplified structure.
+
+April Grieman was the first graphic designer to use computor graphics.
+
+I-D magazine took a post modern approach and was for youth. It was used as a way to get in touch with music, fashion and design.
+
+Barney bubbles focused on the music scene. He created a lot of album covers with a very mixed style. He appropriated a lot of material and made it his own but liked to jump from style to style. 
+
+Jamie Reid created the sex pistols album.
+
+Peter Saville done album covers for joy division.
+
+Vaughan Oliver made very dreamy art work for album covers.
+
+Russell Mills worked on the edges of design.
+
+Nelville Brody studied in London. He focused on type and liked to experiment with type and layout. His work was abstract and liked to fuse fonts.
+
+David Carson was from America. He didn't have any qualifications as a designer. His magazine was very hard to read so it was open to interpretation from people. 
 Week 10 
 -------
 
