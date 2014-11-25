@@ -244,6 +244,8 @@ Today we learned about the postmodern movement. This movement started with [Wolf
 
 ![weingart](http://immbudden.com/blog/images/blog/wolfgang.png)
 
+![weingart2](http://3.bp.blogspot.com/_P1DepbYuNPs/S_Ja9odMGjI/AAAAAAAABqc/KCsWm58bbvc/s1600/WW34.jpg)
+
 Dan Friedman studied under Weingart at Ulm and had an abstract and simplified structure.
 
 April Grieman was the first graphic designer to use computor graphics.
