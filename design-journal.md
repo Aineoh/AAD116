@@ -240,7 +240,7 @@ This week we attended Break conference
 
 Week 9 
 ------
-Today we learned about the postmodern movement. This movement started with Wolfgang Weingart who changed the restrictive rules of typesetting and experimented with type and posters. His work was very heavily influenced by constructivism and looked at how weight and type and pushed the limits of readability. 
+Today we learned about the postmodern movement. This movement started with [Wolfgang Weingart](http://en.wikipedia.org/wiki/Wolfgang_Weingart) who changed the restrictive rules of typesetting and experimented with type and posters. His work was very heavily influenced by constructivism and looked at how weight and type and pushed the limits of readability. 
 
 Dan Friedman studied under Weingart at Ulm and had an abstract and simplified structure.
 
