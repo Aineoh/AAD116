@@ -246,13 +246,21 @@ Today we learned about the postmodern movement. This movement started with [Wolf
 
 ![weingart2](http://3.bp.blogspot.com/_P1DepbYuNPs/S_Ja9odMGjI/AAAAAAAABqc/KCsWm58bbvc/s1600/WW34.jpg)
 
-Dan Friedman studied under Weingart at Ulm and had an abstract and simplified structure.
+Dan Friedman studied under Weingart at Ulm and had an abstract and simplified structure. 
 
-April Grieman was the first graphic designer to use computor graphics.
+![danfriedman](http://www.uartsgd.com/GD40/Friedman/FriedmanTypography.jpg)
 
-I-D magazine took a post modern approach and was for youth. It was used as a way to get in touch with music, fashion and design.
+April Grieman was the first graphic designer to use computor graphics. She established the ['new wave'](http://en.wikipedia.org/wiki/New_Wave_(design)) design style of the late 70's which was influenced by postmodern design.
 
-Barney bubbles focused on the music scene. He created a lot of album covers with a very mixed style. He appropriated a lot of material and made it his own but liked to jump from style to style. 
+![greiman](http://www.independent.co.uk/migration_catalog/article5284308.ece/alternates/w620/Wet%20magazine,%20April%20Greiman%20and%20Jayme%20Odgers.jpeg)
+
+I-D magazine took a post modern approach and was for youth. It was used as a way to get in touch with music, fashion and design. It was well known for its photography and typography and had photographers like [Terry Richardson](http://en.wikipedia.org/wiki/Terry_Richardson/) and [Nick Knight](http://en.wikipedia.org/wiki/Nick_Knight_(photographer) working for them. 
+
+![id mag](http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2010/11/9/1289324671597/The-All-Star-Issue-April--001.jpg)
+
+[Barney bubbles](http://en.wikipedia.org/wiki/Barney_Bubbles) focused on the indepandant music scene. He created a lot of album covers with a very mixed style. He appropriated a lot of material and made it his own but liked to jump from style to style. He redesigned NME a new logo and magazine layout.
+
+![bubbles](http://www.hardformat.org/wp-content/uploads/2009/02/barney1.jpg)
 
 Jamie Reid created the sex pistols album.
 
