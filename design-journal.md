@@ -262,11 +262,17 @@ I-D magazine took a post modern approach and was for youth. It was used as a way
 
 ![bubbles](http://www.hardformat.org/wp-content/uploads/2009/02/barney1.jpg)
 
-Jamie Reid created the sex pistols album.
+[Jamie Reid](http://en.wikipedia.org/wiki/Jamie_Reid) created the sex pistols album. His work featured cut out letters to resemble a ransome note, which defines the ear of punk rock in Britain.
 
-Peter Saville done album covers for joy division.
+![jamie reid](http://www.3ammagazine.com/litarchives/images/2004/mar/reid_7.jpg)
 
-Vaughan Oliver made very dreamy art work for album covers.
+[Peter Saville](http://en.wikipedia.org/wiki/Peter_Saville_(graphic_designer)) was an English graphic designer who done album covers for joy division. He designed my album covers for bands under the record lable Factory recordswhich included The Buzzcocks. He was inspired by [Jan Tschichold](http://en.wikipedia.org/wiki/Jan_Tschichold).
+
+![peter saville](http://www.nevermindthebuspass.com/wp-content/uploads/2014/01/joy-division-unkown-pleasures.jpg)
+
+[Vaughan Oliver](http://en.wikipedia.org/wiki/Vaughan_Oliver) was known for very dreamy art work for album covers. He gave bands distinctive styles which included Cocteau Twins, The Breeders and Pixies. 
+
+![Vaughan oliver](http://www.creativereview.co.uk/images/uploads/2010/12/good_day_today_0.jpg)
 
 Russell Mills worked on the edges of design.
 
