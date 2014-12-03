@@ -282,5 +282,25 @@ David Carson was from America. He didn't have any qualifications as a designer. 
 Week 10 
 -------
 
+The launch of the Apple Macintosh in 1984 saw the true beginning of the computer revolution, especially where designers were concerned.
+
+After spending 30 years working as a commercial artist Ed Fella entered the MFA program at Cranbrook Academy of Art at the age of 47. This subsequently saw Fella become recognised as a pioneer of postmodern graphic design.
+
+Meanwhile the Apple Mac was beginning to make an impact on the design industry. The key to the computers success, apart form dedicated design-based software was the intutive interface. Apple's graphical user interface made it very easy for those not familiar with computers to interact with the system and its software.
+
+Parallel to the 1984 launch of the Apple Mac, design duo Zuzana Licko and Rudy VanderLans launched Emigre to challenge the limitations the new computer possessed.
+
+As the system became more sophisticated software developments followed suit. Working with the new-found freedom Neville Brody and Jon Wozencroft created Fuse, a quarterly publication the explored the new world of digital type design.
+
+Designers quickly embraced and exploited the new creative possibilities. Company's such as The Designers Rebpublic, Me Company, and Why Not Associates made the new medium their own and pushed its capabilities with numerous exciting and innovative projects.
+
+In 1989 Tim Berners-Lee set the wheels in motion on a new medium that would change the way we communicate forever.
+
+Starting life as a fluid medium designers quickly imposed restrictions on the web to make their designs do what they had been familiar with on the printed page. Hillman Curtis was an early pioneer creating websites for Yahoo, Adobe, Paramount and Fox Searchlight Pictures among others.
+
+Tables, then Adobe Flash was used to create complex web designs which often needed to be view on specific browsers or at particular resolutions. Sites became overladen with images, video and surperfluous code slowing delivery of content down.
+
+Things had to change.
+
 Week 11 
 -------
