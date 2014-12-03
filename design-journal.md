@@ -286,6 +286,8 @@ January 24, 1984 (30 years ago) was the day the first [Macintosh computor](http:
 
 After spending 30 years working as a commercial artist Ed Fella entered the MFA program at Cranbrook Academy of Art at the age of 47. This subsequently saw Fella become recognised as a pioneer of postmodern graphic design.
 
+![ed fella](http://1.bp.blogspot.com/-OS3HjrfrIr4/TrKkMqApt8I/AAAAAAAAE7U/CzZlwT8SIbk/s1600/graphic_designer_ed_fella_023.jpg)
+
 Meanwhile the Apple Mac was beginning to make an impact on the design industry. The key to the computers success, apart form dedicated design-based software was the intutive interface. Apple's graphical user interface made it very easy for those not familiar with computers to interact with the system and its software.
 
 Parallel to the 1984 launch of the Apple Mac, design duo Zuzana Licko and Rudy VanderLans launched Emigre to challenge the limitations the new computer possessed.
@@ -303,4 +305,7 @@ Tables, then Adobe Flash was used to create complex web designs which often need
 Things had to change.
 
 Week 11 
+-------
+
+week 12
 -------
