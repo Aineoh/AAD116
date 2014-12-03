@@ -282,7 +282,7 @@ David Carson was from America. He didn't have any qualifications as a designer. 
 Week 10 
 -------
 
-The launch of the Apple Macintosh in 1984 saw the true beginning of the computer revolution, especially where designers were concerned.
+January 24, 1984 (30 years ago) was the day the first [Macintosh computor](http://en.wikipedia.org/wiki/Macintosh_128K) was realised. This marked the computor revolution, which changed the way designers would work in the future.
 
 After spending 30 years working as a commercial artist Ed Fella entered the MFA program at Cranbrook Academy of Art at the age of 47. This subsequently saw Fella become recognised as a pioneer of postmodern graphic design.
 
